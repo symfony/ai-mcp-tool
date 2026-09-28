@@ -33,6 +33,14 @@ In a Symfony application, configure the connection once with the MCP bundle's
 bundle's `tools:` list instead — the bundles adapt the already-configured connection
 rather than opening a second one.
 
+MCP Documentation
+-----------------
+
+ * [Specification](https://modelcontextprotocol.io/specification/latest)
+ * [Tools](https://modelcontextprotocol.io/specification/latest/server/tools)
+ * [Transports](https://modelcontextprotocol.io/specification/latest/basic/transports)
+ * [Official PHP SDK](https://github.com/modelcontextprotocol/php-sdk)
+
 Resources
 ---------
 
